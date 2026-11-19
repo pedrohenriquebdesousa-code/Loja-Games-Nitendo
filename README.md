@@ -4,7 +4,7 @@
 
 **Tema:** loja de jogos
 
-**Repositório público:** [TalesCouti/loja_gamesNintendo](https://github.com/TalesCouti/loja_gamesNintendo)
+**Repositório público:** [Pedrohenriquebdesousa-code/loja_gamesNintendo](https://github.com/pedrohenriquebdesousa-code/Loja-Games-Nitendo)
 
 ## Descrição
 
